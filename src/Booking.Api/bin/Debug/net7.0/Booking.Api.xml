@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Booking.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ReservationController.CreateReservation(Booking.Application.Reservations.Commands.CreateReservationCommand)">
+            <summary>
+            Insert a new reservation in the DB.
+            </summary>
+            <response code="200">Return the inserted model for the reservation.</response>
+            <response code="500">Unable to insert reservation due to a server error</response>
+            <response code="400">Unable to insert reservation due to a client error</response>
+        </member>
+        <member name="M:ReservationController.UpdateReservation(System.Int32,Booking.Application.Reservations.Commands.UpdateReservationCommand)">
+            <summary>
+            Update an exist reservation in the DB.
+            </summary>
+            <response code="200">Return reservation model.</response>
+            <response code="500">Unable to insert reservation due to a server error</response>
+            <response code="400">Unable to insert reservation due to a client error</response>
+            <response code="404">The Id doesn't match any record in the DB</response>
+        </member>
+        <member name="M:ReservationController.DeleteReservation(System.Int32)">
+            <summary>
+            Delete reservation by Id.
+            </summary>
+            <param name="id">Represent the unique id of the reservation</param>
+            <response code="500">Unable to delete reservation due to a server error</response>
+            <response code="404">The Id doesn't match any record in the DB</response>
+        </member>
+        <member name="M:ReservationController.GetReservation(System.Int32)">
+            <summary>
+            Get reservation by Id.
+            </summary>
+            <param name="id">Represent the unique id of the reservation </param>
+            <response code="200">Return the desired reservation by Id.</response>
+            <response code="500">Unable to return reservation due to a server error</response>
+            <response code="404">The Id doesn't match any record in the DB</response>
+        </member>
+    </members>
+</doc>

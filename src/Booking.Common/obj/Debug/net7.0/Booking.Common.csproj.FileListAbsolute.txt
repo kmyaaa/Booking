@@ -1,0 +1,12 @@
+D:\Projects\Booking\src\Booking.Common\bin\Debug\net7.0\Booking.Common.deps.json
+D:\Projects\Booking\src\Booking.Common\bin\Debug\net7.0\Booking.Common.dll
+D:\Projects\Booking\src\Booking.Common\bin\Debug\net7.0\Booking.Common.pdb
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\Booking.Common.csproj.AssemblyReference.cache
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\Booking.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\Booking.Common.AssemblyInfoInputs.cache
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\Booking.Common.AssemblyInfo.cs
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\Booking.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\Booking.Common.dll
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\refint\Booking.Common.dll
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\Booking.Common.pdb
+D:\Projects\Booking\src\Booking.Common\obj\Debug\net7.0\ref\Booking.Common.dll
